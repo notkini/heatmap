@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset / media
+photos/
+
+# Trained models
+*.pt
+
+# Generated analytics
+*.csv
+*.html
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp scripts
+lol.py
